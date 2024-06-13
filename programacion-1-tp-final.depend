@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1718286055 source:c:\users\equipo\desktop\programacion utn\programacion-1\programacion-1-tp-final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
